@@ -1,0 +1,14 @@
+{
+  "name": "own-react",
+  "version": "1.0.0",
+  "description": "This project is referring to https://pomb.us/build-your-own-react/",
+  "main": "main.js",
+  "scripts": {
+    "format": "prettier --write . --cache"
+  },
+  "author": "HosokawaR",
+  "license": "ISC",
+  "dependencies": {
+    "prettier": "^2.7.1"
+  }
+}
