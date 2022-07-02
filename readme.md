@@ -12,4 +12,3 @@ I refer to [this site](https://pomb.us/build-your-own-react/).
 - Reconciliation
 - Function Components
 - Hooks
-
